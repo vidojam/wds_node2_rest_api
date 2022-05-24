@@ -1,0 +1,16 @@
+{
+  "name": "build_a_rest_api_with_node_exp_mongo",
+  "version": "1.0.0",
+  "description": "rest_api",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Jose Torres",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4",
+    "nodemon": "^2.0.16"
+  }
+}
